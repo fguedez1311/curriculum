@@ -1,0 +1,17 @@
+input.form-control::-webkit-input-placeholder {
+  color: black;
+  opacity: 0.8; }
+
+input.form-control:-ms-input-placeholder {
+  color: black;
+  opacity: 0.8; }
+
+input.form-control::-ms-input-placeholder {
+  color: black;
+  opacity: 0.8; }
+
+input.form-control::placeholder {
+  color: black;
+  opacity: 0.8; }
+
+/*# sourceMappingURL=estilo.css.map */
